@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.cabecalho {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+span {
+    font-size: small;
+}
+
+.principal {
+    margin: 20px 20px;
+}
+.logo {
+    width: 100%;
+}
+
+p {
+    padding-top: 20px;
+}
+
+.imagem {
+    display: inline;
+    padding: 50px 50px;
+}
+
+img {
+    width: 500px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    margin-top: auto;
+    background-color: rgb(68, 68, 85);
+    text-align: center;
+    padding: 10px 0;
+}
+
